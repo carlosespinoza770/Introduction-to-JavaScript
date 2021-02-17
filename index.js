@@ -44,10 +44,11 @@ Do the following:
 
    HINT: no function required
 */
-
+var numA = 6;
+var numB = 6;
 console.log('hey carlos')
 
-
+console.log('numA',numa)
 
 
 /*
