@@ -18,6 +18,20 @@ Do the following:
    HINT: no function required
 */
 
+var votingAge=18;
+console.log('votingAge',votingAge);
+
+if(votingAge>=18){
+console.log(true)
+} else{
+  console.log(false)
+
+}
+
+
+
+
+
 
 
 /*
@@ -31,6 +45,7 @@ Do the following:
    HINT: no function required
 */
 
+console.log('hey carlos')
 
 
 
@@ -243,3 +258,6 @@ export default{
     annoyingSong,
     grade
 }
+
+.console.log('Hello World');
+    
